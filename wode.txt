@@ -683,7 +683,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 ••教育_88,#genre#
 Miami TV[1280x720],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-香蕉台[1920x1080],https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB 
+Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8香蕉台[1920x1080],https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB 
 Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 花花公子[1920x1080],http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/6242/index.m3u8
 BCU Charm HD3[1280x720],http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/18053/index.m3u8
