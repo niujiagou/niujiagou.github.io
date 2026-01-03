@@ -208,9 +208,9 @@ CH8,https://mgev.188766.xyz/?migutoken=89079e1852ac9847a16c2b36f094676a&id=hk_ch
 HOY77,https://mgev.188766.xyz/?migutoken=5db5928f16fd0822e5f5e82e137914df&id=hk_hoy&type=dy
 
 🎬韩国频道,#genre#
-日本锻炼舞蹈http://haruka-ip.f5.si:9394/stream/140.m3u8
-日本歌曲现场http://haruka-ip.f5.si:9394/stream/142.m3u8
-日本艺术http://haruka-ip.f5.si:9394/stream/234.m3u8
+日本锻炼舞蹈,http://haruka-ip.f5.si:9394/stream/140.m3u8
+日本歌曲现场,http://haruka-ip.f5.si:9394/stream/142.m3u8
+日本艺术,http://haruka-ip.f5.si:9394/stream/234.m3u8
 KBS1,http://211.117.153.164:4022/rtp/239.192.67.100:49220
 KBSN 스포츠,http://211.117.153.164:4022/rtp/239.192.67.132:49220
 NS홈쇼핑,http://211.117.153.164:4022/rtp/239.192.52.10:49220
