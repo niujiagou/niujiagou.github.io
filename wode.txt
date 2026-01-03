@@ -210,7 +210,6 @@ HOY77,https://mgev.188766.xyz/?migutoken=5db5928f16fd0822e5f5e82e137914df&id=hk_
 🎬韩国频道,#genre#
 日本锻炼舞蹈,http://haruka-ip.f5.si:9394/stream/140.m3u8
 日本歌曲现场,http://haruka-ip.f5.si:9394/stream/142.m3u8
-日本艺术,http://haruka-ip.f5.si:9394/stream/234.m3u8
 KBS1,http://211.117.153.164:4022/rtp/239.192.67.100:49220
 KBSN 스포츠,http://211.117.153.164:4022/rtp/239.192.67.132:49220
 NS홈쇼핑,http://211.117.153.164:4022/rtp/239.192.52.10:49220
@@ -430,6 +429,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 猫和老鼠,https://live.iill.top/huya/11352879
 
 ••教育_88,#genre#
+日本艺术,http://haruka-ip.f5.si:9394/stream/234.m3u8
 Miami TV[1280x720],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Playboy HD[1920x1080],http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8香蕉台[1920x1080],https://cf005.paopao.video:443/A1B1E799A45B0C396A6ABCE8F41D7130B91BAFAB 
